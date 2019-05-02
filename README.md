@@ -92,5 +92,12 @@ Rscript ~/todd/CRISPRi/Guide_design/Step3_Prep_CasOFF_input.R
 Rscript ~/todd/CRISPRi/Guide_design/Step5_CasOFF_Analysis_revised.R
 Rscript ~/todd/CRISPRi/Guide_design/Step6_pick_guides.R
 
+8.Spatial analysis of TEs
 
+Rscript ~/todd/Define_enhancers/Compartment_analysis.R
 
+9.Analysis of CRISPRi results
+
+Rscript ~/todd/CRISPRi/RLTR13D6_lookup_files.R
+Rscript ~/todd/CRISPRi/RLTR13D6_DESeq.R
+Rscript ~/todd/CRISPRi/CRISPRi_analysis.R
